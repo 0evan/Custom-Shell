@@ -1,5 +1,4 @@
 ## a simple linux terminal
-A basic linux shell 
 
 The shell contains 2 unique commands: 
 - `SERIAL` - each command is executed one at a time.
